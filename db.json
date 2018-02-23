@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "fetch() demo", "author": "patb" },
+    { "id": 2, "title": "Grid by examples", "author": "frankv" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Nice work!", "author": "frankv", "postId": 1 },
+    { "id": 2, "body": "Excellent, thanks!", "author": "lisab", "postId": 2 }
+  ]
+}
+
